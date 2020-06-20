@@ -1,3 +1,4 @@
+package _07_tea_party;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
@@ -18,10 +19,4 @@ public class TeaPartyTest {
  }
 }
     
-public class TeaParty {
-        public String welcome(String name, boolean isWoman, boolean isKnighted) {
-        if (name.contains(name)) {
-        	System.out.println("Hello sir " + name);
-        }
-        }
-}
+
